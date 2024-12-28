@@ -7,5 +7,5 @@ The first step is to get comfortable with Linux and the command line. Understand
 
 ---
 
-## Next Steps
-
+## Step 2: Learning FileIO using open read write creat close
+The second step involves using lower level file handling systems which have no biffered reading/writing. It also introduces file descriptors, kernel, file flags and file permissions.
